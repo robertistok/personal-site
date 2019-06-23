@@ -11,7 +11,7 @@ module.exports = {
   author: 'Robert Istok',
   githubUrl: 'https://github.com/robertistok/personal-site',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://unruffled-hypatia-277ee3.netlify.com/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
